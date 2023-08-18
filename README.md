@@ -1,18 +1,20 @@
 ## Olá! Sou a Gleicy 👋🏻
 "Gosto de estudar tecnologia porque ela é como um superpoder que nos ajuda a aprender, brincar e descobrir um montão de coisas legais!"
+<br/>
 
 ![CatErrorGIF](https://github.com/GleicyS/GleicyS/assets/69402359/1739e85c-8807-4763-a6fb-3ed05501de1e)
-
-
-
+<br>
 
 <br/>
 
 - 🔭 Estudando JavaScript com Node.js
 - 📈 No próximo módulo do curso, estarei explorando o mundo dos bancos de dados.
 
+<br/>
 
 ![Gleicy GitHub stats](https://github-readme-stats.vercel.app/api?username=gleicys&show_icons=true&theme=radical)
+
+![Gleicy ](https://github-readme-stats.vercel.app/api/top-langs/?username=gleicys&theme=radical)
 
 ## Tecnológias que utilizo no meu dia a dia 👩🏻‍💻
 
