@@ -1,5 +1,10 @@
-### Olá! Sou a Gleicy 👋🏻
+## Olá! Sou a Gleicy 👋🏻
 "Gosto de estudar tecnologia porque ela é como um superpoder que nos ajuda a aprender, brincar e descobrir um montão de coisas legais!"
+
+![CatErrorGIF](https://github.com/GleicyS/GleicyS/assets/69402359/1739e85c-8807-4763-a6fb-3ed05501de1e)
+
+
+
 
 <br/>
 
@@ -8,9 +13,8 @@
 
 
 ![Gleicy GitHub stats](https://github-readme-stats.vercel.app/api?username=gleicys&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gleicys)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnológias que utilizo no meu dia a dia
+## Tecnológias que utilizo no meu dia a dia 👩🏻‍💻
 
 <div style= "display:inline-block"><br/>
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
