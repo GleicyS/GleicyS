@@ -1,14 +1,13 @@
 ## Olá! Sou a Gleicy 👋🏻
-"Gosto de estudar tecnologia porque ela é como um superpoder que nos ajuda a aprender, brincar e descobrir um montão de coisas legais!"
-<br/>
 
 ![CatErrorGIF](https://github.com/GleicyS/GleicyS/assets/69402359/1739e85c-8807-4763-a6fb-3ed05501de1e)
 <br>
 
-<br/>
+## Estou estudando 📖
 
 - 🔭 Estudando JavaScript com Node.js
 - 📈 No próximo módulo do curso, estarei explorando o mundo dos bancos de dados.
+  
 
 <br/>
 
@@ -16,7 +15,7 @@
 
 ![Gleicy ](https://github-readme-stats.vercel.app/api/top-langs/?username=gleicys&theme=radical)
 
-## Tecnológias que utilizo no meu dia a dia 👩🏻‍💻
+## Tecnologias que utilizo no meu dia a dia 👩🏻‍💻
 
 <div style= "display:inline-block"><br/>
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -26,4 +25,6 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
    <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
+<br/>
 
+"Gosto de estudar tecnologia porque ela é como um superpoder que nos ajuda a aprender, brincar e descobrir um montão de coisas legais!"🚀
