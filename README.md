@@ -1,18 +1,15 @@
-## Olá! Sou a Gleicy 👋🏻
-
-![CatErrorGIF](https://github.com/GleicyS/GleicyS/assets/69402359/1739e85c-8807-4763-a6fb-3ed05501de1e)
-<br>
-
-## Estou estudando 📖
-
-- 🔭 Estudando JavaScript com Node.js
-- 📈 No próximo módulo do curso, estarei explorando o mundo dos bancos de dados.
-  
+# Olá! Sou a Gleicy 👋🏻
+<div style= "display:inline-block"><br/>
+  <img align="center" alt="javascript" src="https://github.com/GleicyS/GleicyS/assets/69402359/d4fe88c4-6658-4fa8-b5ab-93c5735aa672"/>
+</div>
 
 <br/>
+## Estudando
+
+- 🔭  JavaScript com Node.js
+- 📈  No próximo módulo do curso, estarei explorando o mundo dos bancos de dados.
 
 ![Gleicy GitHub stats](https://github-readme-stats.vercel.app/api?username=gleicys&show_icons=true&theme=radical)
-
 ![Gleicy ](https://github-readme-stats.vercel.app/api/top-langs/?username=gleicys&theme=radical)
 
 ## Tecnologias que utilizo no meu dia a dia 👩🏻‍💻
@@ -27,4 +24,12 @@
 </div>
 <br/>
 
-"Gosto de estudar tecnologia porque ela é como um superpoder que nos ajuda a aprender, brincar e descobrir um montão de coisas legais!"🚀
+"Gosto de estudar tecnologia porque ela é como um superpoder que nos ajuda a aprender, brincar e descobrir um montão de coisas legais! Ops..."
+
+![CatErrorGIF](https://github.com/GleicyS/GleicyS/assets/69402359/1739e85c-8807-4763-a6fb-3ed05501de1e)
+
+"Embora seja frequentemente desafiador, ainda assim é incrível quando conseguimos resolver." 
+
+![NyochioD4djGIF](https://github.com/GleicyS/GleicyS/assets/69402359/65d101fd-676d-491c-a389-da77880fc6b3)
+
+
