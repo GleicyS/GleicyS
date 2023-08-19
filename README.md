@@ -4,13 +4,17 @@
 </div>
 
 <br/>
+
 ## Estudando
+
 
 - 🔭  JavaScript com Node.js
 - 📈  No próximo módulo do curso, estarei explorando o mundo dos bancos de dados.
+<br/>
 
 ![Gleicy GitHub stats](https://github-readme-stats.vercel.app/api?username=gleicys&show_icons=true&theme=radical)
 ![Gleicy ](https://github-readme-stats.vercel.app/api/top-langs/?username=gleicys&theme=radical)
+<br/>
 
 ## Tecnologias que utilizo no meu dia a dia 👩🏻‍💻
 
@@ -22,6 +26,7 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
    <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
+<br/>
 <br/>
 
 "Gosto de estudar tecnologia porque ela é como um superpoder que nos ajuda a aprender, brincar e descobrir um montão de coisas legais! Ops..."
