@@ -33,7 +33,7 @@
 ![Gleicy GitHub stats](https://github-readme-stats.vercel.app/api?username=gleicys&show_icons=true&theme=radical)
 ![Gleicy ](https://github-readme-stats.vercel.app/api/top-langs/?username=gleicys&theme=radical)
 <br/>
-
+<br/>
 
 
 ## Tecnologias que utilizo no meu dia a dia 👩🏻‍💻
