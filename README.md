@@ -6,25 +6,25 @@
 ## Sobre mim
 🎓 Eu estudo Desenvolvimento de Software com Foco em Back-End na @Cubos Academy | Análise e Desenvolvimento de Sistemas na FMU
 
-🔎 Também sou curiosa sobre aviação e alimentação
+🔎 Tenho uma curiosidade contínua que abrange tanto a aviação quanto a área da alimentação
 
-✒️ Eu gosto de no meu tempo livre: pesquisar sobre coisas novas ou simplesmente assistir algo pra relaxar
+✒️ Nos momentos de lazer, tenho o hábito de me dedicar à pesquisa de novos tópicos empolgantes ou desfrutar de um tempo tranquilo assistindo algo que me ajude a relaxar
 
-📚 Lendo: Barriga de Trigo. Comecei a le-lo depois de descobrir que sou intolerante a Glúten e me venho aprendendo muito sobre.
+📚 Lendo: Barriga de Trigo. Tem sido uma leitura incrivelmente esclarecedora para mim, especialmente após descobrir minha intolerância ao glúten.
 
 <br/>
 
 ## Eu estou estudando... 🧩
 
 - 🔭  JavaScript com Node.js
-- 📈  No próximo módulo do curso, estarei explorando o mundo dos bancos de dados.
+- 📈  No próximo módulo do curso, estarei explorando o mundo dos bancos de dados
+-  Inglês
 <br/>
 
 
 ## Cursos realizados 🤓
 - Cubos Academy
 - Origamid
-- Inglês
 
 ## GitHub Stats ⚡
 ![Gleicy GitHub stats](https://github-readme-stats.vercel.app/api?username=gleicys&show_icons=true&theme=radical)
@@ -51,6 +51,7 @@
 "Embora seja frequentemente desafiador, ainda assim é incrível quando conseguimos resolver." 
 
 ![NyochioD4djGIF](https://github.com/GleicyS/GleicyS/assets/69402359/65d101fd-676d-491c-a389-da77880fc6b3)
+
 
 ## Entre em contato comigo! 📭
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gleicy-silva-6393541b9/)
