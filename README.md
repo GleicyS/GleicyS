@@ -5,8 +5,11 @@
 
 ## Sobre mim
 🎓 Eu estudo Desenvolvimento de Software com Foco em Back-End na @Cubos Academy | Análise e Desenvolvimento de Sistemas na FMU
+
 🔎 Também sou curiosa sobre aviação e alimentação
+
 ✒️ Eu gosto de no meu tempo livre: pesquisar sobre coisas novas ou simplesmente assistir algo pra relaxar
+
 📚 Lendo: Barriga de Trigo. Comecei a le-lo depois de descobrir que sou intolerante a Glúten e me venho aprendendo muito sobre.
 
 <br/>
