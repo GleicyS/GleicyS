@@ -25,11 +25,16 @@
 ## Cursos realizados 🤓
 - Cubos Academy
 - Origamid
+<br/>
+
+
 
 ## GitHub Stats ⚡
 ![Gleicy GitHub stats](https://github-readme-stats.vercel.app/api?username=gleicys&show_icons=true&theme=radical)
 ![Gleicy ](https://github-readme-stats.vercel.app/api/top-langs/?username=gleicys&theme=radical)
 <br/>
+
+
 
 ## Tecnologias que utilizo no meu dia a dia 👩🏻‍💻
 
@@ -43,6 +48,7 @@
 </div>
 <br/>
 <br/>
+
 
 ## Por que escolhi estudar tecnologia? 🤔
 
