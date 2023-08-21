@@ -4,11 +4,11 @@
 </div>
 
 ## Sobre mim
-🎓 Eu estudo Desenvolvimento de Software com Foco em Back-End na @Cubos Academy | Análise e Desenvolvimento de Sistemas na FMU
+🎓 Eu estudo Desenvolvimento de Software com Foco em Back-End na @Cubos Academy | Análise e Desenvolvimento de Sistemas na @FMU.
 
-🔎 Tenho uma curiosidade contínua que abrange tanto a aviação quanto a área da alimentação
+🔎 Tenho uma curiosidade contínua que abrange tanto a aviação quanto a área da alimentação.
 
-✒️ Nos momentos de lazer, tenho o hábito de me dedicar à pesquisa de novos tópicos empolgantes ou desfrutar de um tempo tranquilo assistindo algo que me ajude a relaxar
+✒️ Nos momentos de lazer, tenho o hábito de me dedicar à pesquisa de novos tópicos empolgantes ou desfrutar de um tempo tranquilo assistindo algo que me ajude a relaxar.
 
 📚 Lendo: Barriga de Trigo. Tem sido uma leitura incrivelmente esclarecedora para mim, especialmente após descobrir minha intolerância ao glúten.
 
