@@ -44,11 +44,13 @@
 <br/>
 <br/>
 
+## Por que escolhi estudar tecnologia? 🤔
+
 "Gosto de estudar tecnologia porque ela é como um superpoder que nos ajuda a aprender, brincar e descobrir um montão de coisas legais! Ops..."
 
 ![CatErrorGIF](https://github.com/GleicyS/GleicyS/assets/69402359/1739e85c-8807-4763-a6fb-3ed05501de1e)
 
-"Embora seja frequentemente desafiador, ainda assim é incrível quando conseguimos resolver." 
+"Embora seja frequentemente desafiador, ainda assim é incrível quando conseguimos resolver o problema." 
 
 ![NyochioD4djGIF](https://github.com/GleicyS/GleicyS/assets/69402359/65d101fd-676d-491c-a389-da77880fc6b3)
 
