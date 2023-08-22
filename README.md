@@ -18,7 +18,7 @@
 
 - 🔭  JavaScript com Node.js
 - 📈  No próximo módulo do curso, estarei explorando o mundo dos bancos de dados
--  Inglês
+- 📖 Inglês
 <br/>
 
 
