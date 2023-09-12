@@ -8,7 +8,7 @@
 
 ✒️ Nos momentos de lazer, tenho o hábito de me dedicar à pesquisa de novos tópicos empolgantes ou desfrutar de um tempo tranquilo assistindo algo que me ajude a relaxar.
 
-📚 Lendo: Barriga de Trigo. Tem sido uma leitura incrivelmente esclarecedora para mim, especialmente após descobrir minha intolerância ao glúten.
+
 
 <br/>
 
