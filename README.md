@@ -1,7 +1,5 @@
 # Olá! Sou a Gleicy 👋🏻
-<div style= "display:inline-block"><br/>
-  <img align="center" alt="javascript" src="https://github.com/GleicyS/GleicyS/assets/69402359/d4fe88c4-6658-4fa8-b5ab-93c5735aa672"/>
-</div>
+
 
 ## Sobre mim
 🎓 Estudo Desenvolvimento de Software com Foco em Back-End na @Cubos Academy | Análise e Desenvolvimento de Sistemas na @FMU.
