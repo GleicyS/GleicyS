@@ -2,7 +2,7 @@
 
 
 ## Sobre mim
-🎓 Estudo Desenvolvimento de Software com Foco em Back-End na @Cubos Academy | Análise e Desenvolvimento de Sistemas na @FMU.
+🎓 Estudo Desenvolvimento de Software com Foco em Back-End na Cubos Academy | Análise e Desenvolvimento de Sistemas na FMU.
 
 🔎 Tenho uma curiosidade contínua que abrange tanto a aviação quanto a área da alimentação.
 
